@@ -1,3 +1,7 @@
+#company  InternsElite
+# Name :-Rekha Dattataray Bandgar
+# Internship Id:-AIML-A6/FEB-9026
+
 # Handwritten Digit Recognizer
 
 A deep learning project that recognizes handwritten digits (0-9) using Artificial Neural Networks (ANN) on the MNIST dataset. Achieves 98.68% test accuracy with an interactive GUI for real-time digit recognition.
